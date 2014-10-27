@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+}
+
+html, body {
+	 height: 100%;
+}
+
+.container,
+.container-fluid {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -4em;
+}
+
+footer,
+.footer {
+	height: 4em;
+}
